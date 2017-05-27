@@ -1,3 +1,10 @@
 dakdñlsadkasñldkasñddkasñdkaslñdkasñdkaslñdkasñdkaslñdkañldkasñ
 
 efrgfhfesdfd
+
+git branck "name" -> Crea nueva rama
+git checkout "name" -> Cambiar de rama 
+git merge "name" -> Mezclar rama "name" con la actual
+ls -> Ver archivos
+git add -A -> Añadir archivos
+git commit -m "fsfs" -> Crear nueva version
